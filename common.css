@@ -1,0 +1,16 @@
+p, li {
+	line-height: 190%;
+	padding-left: 5px;
+}
+
+a.tweetable {
+	color: black;
+	background-color: #fff3e0;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+	}
+
+a.tweetable:hover{
+	background-color: #e8eaf6;
+	}
