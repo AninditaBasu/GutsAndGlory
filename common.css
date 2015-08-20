@@ -14,3 +14,7 @@ a.tweetable {
 a.tweetable:hover{
 	background-color: #e8eaf6;
 	}
+
+a.noline {
+	text-decoration: none;
+	}
