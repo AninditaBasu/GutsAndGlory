@@ -5,6 +5,15 @@ This project has two branches: one called **Master**, which is the default branc
 
 Therefore, remember to update the files **ONLY of the gh-pages** branch: [https://github.com/UdaanSTC/GutsAndGlory/tree/gh-pages](https://github.com/UdaanSTC/GutsAndGlory/tree/gh-pages).
 
+## JSON file
+The JSON file is a GitHub-generated file. Do NOT delete this file, else the publishing won't work. This file resides in the root folder.
+
+## Main page of the magazine is called index.html
+It resides in the root folder. Do not rename this file, else the publishing won't work.
+
+## Articles are in the "html" folder
+All articles except the front page, which is called index.html.
+
 ## CSS files are in the "css" folder
 The CSS files for presentation are sourced as under:
 - w3.css, w3-theme-indigo.css, and w3-theme-orange.css are from w3schools.com: [http://www.w3schools.com/w3css/default.asp](http://www.w3schools.com/w3css/default.asp). These files contain the basic presentation formatting. The files are free to use.
@@ -17,16 +26,11 @@ The sorttable.js file is for making tables sortable on column-click. The file is
 ## Image files are in the "images" folder
 The logo (michi), and author mugshots reside here.
 
-## Main page of the magazine is called index.html
-It resides in the root folder. Do not rename this file, else the publishing won't work.
-
-## JSON file
-The JSON file is a GitHub-generated file. Do NOT delete this file, else the publishing won't work. This file resides in the root folder.
-
 ## Other files
 These files don't reside in this GitHub repo; they're directly referenced through URLs in the articles
+- All of the videos are on YouTube.
+- All of the audio clips are on SoundCloud.
 - The icons are from Google's Material Design icon library [https://fonts.googleapis.com/icon?family=Material+Icons](https://fonts.googleapis.com/icon?family=Material+Icons).
 - The scroll-to-top button is from [http://www.scrolltotop.com/](http://www.scrolltotop.com/).
 - The pictures in the quiz reside at imgur: [http://aninditabasu.imgur.com/all/](http://aninditabasu.imgur.com/all/).
-- All of the videos are on YouTube.
-- All of the audio clips are on SoundCloud.
+
