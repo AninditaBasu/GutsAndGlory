@@ -25,8 +25,54 @@ $(function(){
 </head>
 
 <body>
+	
+<div class = "w3-container">
+<nav class="w3-sidenav w3-white w3-card-2" style="display:none">
+<a href="javascript:void(0)" 
+  onclick="w3_close()"
+  class="w3-closenav w3-large">Close&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x</a>  
+  <a href="./html/abigail.html" title = "Abigail Samuel" class = "w3-btn w3-theme-dark w3-margin-4">Scenario-based information architecture</a>
+  <a href="./html/alka.html" title = "Alka Acharya" class = "w3-btn w3-theme-dark w3-margin-4">You too can patent</a>
+  <a href="./html/alpana.html" title = "Alpana Gulavani" class = "w3-btn w3-theme-dark w3-margin-4">Management lessons from kids</a>
+  <a href="./html/anagha.html" title = "Anagha Chandratrey" class = "w3-btn w3-theme-dark w3-margin-4">Commonly confused words</a>
+  <a href="./html/anindita.html" title = "Anindita Basu" class = "w3-btn w3-theme-dark w3-margin-4">Of managers and manuals</a>
+  <a href="./html/asha.html" title = "Asha Mokashi" class = "w3-btn w3-theme-dark w3-margin-4">No passengers on the battleship</a>
+  <a href="./html/basreena.html" title = "Basreena Basheer" class = "w3-btn w3-theme-dark w3-margin-4">It's a L10N thing</a>
+  <a href="./html/jeddi.html" title = "Jedidiyah Alfred" class = "w3-btn w3-theme-dark w3-margin-4">Content models</a>
+  <a href="./html/kumard.html" title = "Kumar Dhanagopal" class = "w3-btn w3-theme-dark w3-margin-4">Conversational style of writing</a>  
+  <a href="./html/meghashri.html" title = "Meghashri Dalvi" class = "w3-btn w3-theme-dark w3-margin-4">Internalising a research mindset</a>
+  <a href="./html/mugdha.html" title = "Mugdha Kulkarni" class = "w3-btn w3-theme-dark w3-margin-4">Lateral thinking</a>
+  <a href="./html/rohit.html" title = "Rohit Nair" class = "w3-btn w3-theme-dark w3-margin-4">A day in the life of a technical editor</a>
+  <a href="./html/prajakta.html" title = "Prajakta Pradhan" class = "w3-btn w3-theme-dark w3-margin-4">Who is the user</a>
+  <a href="./html/sesibhushan.html" title = "Sesi Bhushan" class = "w3-btn w3-theme-dark w3-margin-4">Automated content curation</a>
+  <a href="./html/shivi.html" title = "Shivi Sivasubramanian" class = "w3-btn w3-theme-dark w3-margin-4">Awaken the innovator in you</a>
+  <a href="./html/tony.html" title = "Tony Xavier" class = "w3-btn w3-theme-dark w3-margin-4">Challenges in Agile</a>
+  <a href="./html/vinish.html" title = "Vinish Garg" class = "w3-btn w3-theme-dark w3-margin-4">Be your own story</a>
+  <a href="./html/quiz.html" title = "Technical writing quiz" class = "w3-btn w3-theme-dark w3-margin-4">Quiz</a>
+  <a href="./html/volunteers.html" title = "Conference team" class = "w3-btn w3-theme-dark w3-margin-4">Conference team</a>
+  <a href= "./html/winners.html" title = "Contest winners" class = "w3-btn w3-theme-dark w3-margin-4">Contest winners</a>
+</nav>
+</div>
 
-<div id="header"></div>
+
+<div class = "w3-container">
+<table class="w3-table">
+<tr>
+  <td width = "33%"><a href="http://stc-india.org/conferences/2015/"><img src="http://www.stc-india.org/conferences/2015/sites/default/files/stcIndia.logo__0.png"/></a></td>
+  <td width = "33%"><p align = "center"><img src="./images/michi.png" alt="michi"/></p></td>
+  <td width = "33%"><a href="http://stc.org/"><img src="http://stc-india.org/conferences/2015/sites/default/files/stc-socity.png" align = "right"/></a><br/><br/></td>
+</tr>
+</table>  
+</div>
+
+<div class = "w3-container">
+<table>
+<tr>
+<td width = "50%" class = "w3-padding-large"><i class="material-icons w3-opennav" onclick="w3_open()">menu</i> </td>
+<td width = "50%"><h1><a href="index.html" title = "Udaan home page">Udaan</a></h1></td>
+</tr>
+</table>
+</div>
 
 <div class = "w3-container">
 <section class="w3-container w3-border"> 
@@ -497,7 +543,27 @@ I have the GUTS and I deserve the GLORY!<br/><br/></p>
 </section>
 </div>
 
-<div id="footer"></div>
+<div class = "w3-container">
+<footer class="w3-container w3-blue-grey">
+  <h5>Udaan, STC India annual conference 2015, Dec 10 - 12, Pune</h5>
+</footer>
+</div>
+
+<!--code for the script tags for the scroll-to-top button is from http://www.scrolltotop.com/-->
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://arrow.scrolltotop.com/arrow23.js"></script>
+<noscript>Not seeing a <a href="http://www.scrolltotop.com/" target = "_blank">Scroll to Top Button</a>? Go to our FAQ page for more info.</noscript>
+
+<!-- code for side nav -->
+<script>
+function w3_open() {
+    document.getElementsByClassName("w3-sidenav")[0].style.display = "block";
+}
+function w3_close() {
+    document.getElementsByClassName("w3-sidenav")[0].style.display = "none";
+}
+</script>
 
 </body>
 
