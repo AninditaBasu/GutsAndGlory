@@ -1,30 +1,30 @@
 # Article details
 
-Master list
+Author, title, tweetabke, short URL, and list of image, audio, and video files
 
 ## Pages
 
-- [Home Page](#home-page) 
-- [Abigail](#abigail)
-- [Alka and Samartha](#alka-and-samartha)
-- [Alpana](#alpana)
-- [Anagha](#anagha)
-- [Anindita](#anindita)
-- [Asha](#asha)
-- [Basreena](#basreena)
-- [Jedidiyah](#jedidiyah)
-- [Kumar Dhanagopal](#kumar-dhanagopal)
-- [Meghashri](#meghashri)
-- [Mugdha](#mugdha)
-- [Prajakta](#prajakta)
-- [Rohit](#rohit)
-- [Sesibhushan](#sesibhushan)
-- [Sheece](sheece)
-- [Shivi](#shivi)
-- [Vinish](#vinish)
-- [Quiz](quiz)
-- [Volunteers](volunteers)
-- [Winners](winners)
+1. [Home Page](#home-page) 
+2. [Abigail](#abigail)
+3. [Alka and Samartha](#alka-and-samartha)
+4. [Alpana](#alpana)
+5. [Anagha](#anagha)
+6. [Anindita](#anindita)
+7. [Asha](#asha)
+8. [Basreena](#basreena)
+9. [Jedidiyah](#jedidiyah)
+10. [Kumar Dhanagopal](#kumar-dhanagopal)
+11. [Meghashri](#meghashri)
+12. [Mugdha](#mugdha)
+13. [Prajakta](#prajakta)
+14. [Rohit](#rohit)
+15. [Sesibhushan](#sesibhushan)
+16. [Sheece](sheece)
+17. [Shivi](#shivi)
+18. [Vinish](#vinish)
+19. [Quiz](quiz)
+20. [Volunteers](volunteers)
+21. [Winners](winners)
 
 ### Home Page
 
