@@ -12,8 +12,8 @@ Master list
 - [Anindita](#anindita)
 - [Asha](#asha)
 - [Basreena](#basreena)
-- [Jedidiyah](#jeddi)
-- [KumarD](#kumard)
+- [Jedidiyah](#jedidiyah)
+- [Kumar Dhanagopal](#kumar-dhanagopal)
 - [Meghashri](#meghashri)
 - [Mugdha](#mugdha)
 - [Prajakta](#prajakta)
@@ -27,8 +27,6 @@ Master list
 - [Winners](winners)
 
 ### Home Page
-
-Author:
 
 Title: Home page 
 
@@ -45,8 +43,6 @@ Video:
 
 ### Abigail
 
-Author: Abigail Samuel
-
 Title: Scenario-based information architecture 
 
 Tweetable: 
@@ -62,8 +58,6 @@ Video:
 
 ### Alka and Samartha
 
-Author: Alka Acharya and Samartha Vashishtha 
-
 Title: You too can patent 
 
 Tweetable: 
@@ -76,15 +70,13 @@ Images:
 - articulate1.jpg
 - eligible2.jpg
 - patent_flow.png 
-- 
+
 Audio:  
 
 Video: 
 
 
 ### Alpana
-
-Author: Alpana Gulavani 
 
 Title: Management lessons from kids 
 
@@ -101,8 +93,6 @@ Video:
  
 ### Anagha
 
-Author: Anagha Chandratrey 
-
 Title: Commonly confused words 
 
 Tweetable: Can I ask you a question? You can but you may not. Avoid these common vocab mistakes @anaghaC 
@@ -115,10 +105,7 @@ Audio:
 
 Video: 
 
-
 ### Anindita
-
-Author: Anindita Basu 
 
 Title: Of managers and manuals 
 
@@ -135,11 +122,8 @@ Video:
 - https://www.youtube.com/watch?v=pMjO76p0W0s
 - https://www.youtube.com/watch?v=pMjO76p0W0s
 - https://www.youtube.com/watch?v=-gYgBmg5jHU
-- 
 
 ### Asha
-
-Author: Asha Mokashi 
 
 Title: No passengers on the battleship 
 
@@ -153,10 +137,7 @@ Audio:
 
 Video:  
 
-
 ### Basreena
-
-Author: Basreena Basheer 
 
 Title: It's a L10N thing 
 
@@ -170,10 +151,7 @@ Audio:
 
 Video: 
 
-
-### Jeddi
-
-Author: Jedidiyah Alfred 
+### Jedidiyah
 
 Title: Content models 
 
@@ -187,10 +165,7 @@ Audio:
 
 Video:  
 
-
-### KumarD
-
-Author: Kumar Dhanagopal 
+### Kumar Dhanagopal
 
 Title: Conversational style of writing 
 
@@ -204,10 +179,7 @@ Audio:
 
 Video: 
 
-
 ### Meghashri
-
-Author: Meghashri Dalvi 
 
 Title: Internalising a research mindset 
 
@@ -221,10 +193,7 @@ Audio:
 
 Video:  
 
-
 ### Mugdha
-
-Author: Mugdha Kulkarni 
 
 Title: Lateral thinking 
 
@@ -238,10 +207,7 @@ Audio:
 
 Video: 
 
-
 ### Prajakta
-
-Author: Prajakta Pradhan 
 
 Title: Who is the user 
 
@@ -255,10 +221,7 @@ Audio:
 
 Video: 
 
-
 ### Rohit
-
-Author: Rohit Nair 
 
 Title: A day in the life of a technical editor 
 
@@ -272,10 +235,7 @@ Audio:
 
 Video: 
 
-
 ### Sheece
-
-Author: Sheece Baghdadi 
 
 Title: The four lettered alphanumeric word 
 
@@ -291,8 +251,6 @@ Video:
 
 ### Sesibhushan
 
-Author: Sesibhushan Somarouthu
-
 Title: Automated content curation 
 
 Tweetable: In this era of information overload, how to automatically deliver contextually relevant information? @Somarouthu 
@@ -305,10 +263,7 @@ Audio:
 
 Video: 
 
-
 ### Shivi
-
-Author: Shivi Sivasubramanian 
 
 Title: Awaken the innovator in you 
 
@@ -322,10 +277,7 @@ Audio: https://soundcloud.com/udaanstc/udaan15-int-with-syed
 
 Video: 
 
-
 ### Tony
-
-Author: Tony Xavier 
 
 Title: Challenges in Agile 
 
@@ -335,12 +287,11 @@ Short URL:
 
 Images: 
 
-Audio:  
+Audio: 
+
 Video: 
 
 ### Vinish
-
-Author: Vinish Garg 
 
 Title: Be your own story 
 
@@ -354,10 +305,8 @@ Audio: https://soundcloud.com/udaanstc/vinishgargudaan2015-08
 
 Video: 
 
-
 ### Quiz
 
-Author: 
 Title: Quiz 
 
 Tweetable: 
@@ -371,15 +320,12 @@ Images:
 - http://i.imgur.com/xSBHVyW.png
 - http://i.imgur.com/hk7yShM.png
 - http://i.imgur.com/Ut5n6G1.png
-- 
+
 Audio: 
 
 Video: 
 
-
 ### Volunteers
-
-Author:  
 
 Title: Volunteers 
 
@@ -393,10 +339,7 @@ Audio:
 
 Video: 
 
-
 ### Winners
-
-Author: 
 
 Title: Winners 
 
@@ -409,4 +352,3 @@ Images:
 Audio: 
 
 Video: 
-
