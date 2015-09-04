@@ -60,7 +60,7 @@ Video:
 
 Title: You too can patent 
 
-Tweetable: 
+Tweetable: As a technical communicator working at the crossroads of technology and business, you're ideally positioned to file patents.
 
 Short URL 
 
@@ -127,7 +127,7 @@ Video:
 
 Title: No passengers on the battleship 
 
-Tweetable: 
+Tweetable: How critical is strong people leadership in the technical writing profession?
 
 Short URL:  
 
@@ -258,6 +258,12 @@ Tweetable: In this era of information overload, how to automatically deliver con
 Short URL:  
 
 Images:  
+- sesi.png
+- sesi_1.png
+- sesi_2.png
+- sesi_3.png
+- sesi_4.png
+- sesi_5.png
 
 Audio:  
 
@@ -295,7 +301,7 @@ Video:
 
 Title: Be your own story 
 
-Tweetable:  
+Tweetable:  DITA, editing, or Markdown does not define our brand. Let's be our story, let's brand ourselves well.
 
 Short URL:  
 
