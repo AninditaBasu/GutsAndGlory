@@ -32,7 +32,7 @@ Title: Home page
 
 Tweetable: Udaan, the publication of the STC India annual conference 2015 
 
-Short URL:
+Short URL: http://bit.ly/udaanSTC
 
 Images: 
 
@@ -62,7 +62,7 @@ Title: You too can patent
 
 Tweetable: As a technical communicator working at the crossroads of technology and business, you're ideally positioned to file patents.
 
-Short URL 
+Short URL: http://bit.ly/patentsTW
 
 Images: 
 - unobvious1.jpg
@@ -97,7 +97,7 @@ Title: Commonly confused words
 
 Tweetable: Can I ask you a question? You can but you may not. Avoid these common vocab mistakes @anaghaC 
 
-Short URL:  
+Short URL:  http://bit.ly/vocabTW
 
 Images: 
 
@@ -111,7 +111,7 @@ Title: Of managers and manuals
 
 Tweetable: On the origin of certain words like manuals and content strategy @anindita_basu 
 
-Short URL:  
+Short URL:  http://bit.ly/etymTC
 
 Images: 
 
@@ -129,7 +129,7 @@ Title: No passengers on the battleship
 
 Tweetable: How critical is strong people leadership in the technical writing profession?
 
-Short URL:  
+Short URL:  http://bit.ly/leadTW
 
 Images: 
 
@@ -143,7 +143,7 @@ Title: It's a L10N thing
 
 Tweetable: Increasing demand for products and technologies to be culturally adaptive makes localisation the need of the hour. 
 
-Short URL:  
+Short URL:  http://bit.ly/lionTC
 
 Images: 
 
@@ -185,7 +185,7 @@ Title: Internalising a research mindset
 
 Tweetable: What is common in evaluating tools, exploring formats, and analyzing value contribution? 
 
-Short URL:  
+Short URL:  http://bit.ly/researchTW
 
 Images: 
 
@@ -227,7 +227,7 @@ Title: A day in the life of a technical editor
 
 Tweetable: All content goes through the editorial desk. Ever heard the editor's personal take? 
 
-Short URL:  
+Short URL:  http://bit.ly/editTW
 
 Images: 
 
@@ -255,7 +255,7 @@ Title: Automated content curation
 
 Tweetable: In this era of information overload, how to automatically deliver contextually relevant information? @Somarouthu 
 
-Short URL:  
+Short URL:  http://bit.ly/curateTW
 
 Images:  
 - sesi.png
@@ -273,7 +273,7 @@ Video:
 
 Title: Awaken the innovator in you 
 
-Tweetable: 
+Tweetable: http://bit.ly/ideateTW
 
 Short URL:  
 
@@ -303,7 +303,7 @@ Title: Be your own story
 
 Tweetable:  DITA, editing, or Markdown does not define our brand. Let's be our story, let's brand ourselves well.
 
-Short URL:  
+Short URL:  http://bit.ly/brandTW
 
 Images: 
 
