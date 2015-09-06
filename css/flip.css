@@ -28,3 +28,35 @@
 	-webkit-transform: perspective( 600px ) rotateY( 0deg );
 	transform: perspective( 600px ) rotateY( 0deg );
 }
+
+/* Anindita's addition for larger boxes */
+
+.flip3Dlarge{ width:670px; height:460px; margin:10px; float:left; }
+.flip3Dlarge > .front{
+	position:absolute;
+	-webkit-transform: perspective( 600px ) rotateY( 0deg );
+	transform: perspective( 600px ) rotateY( 0deg );
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	transition: -webkit-transform .5s linear 0s;
+	transition: transform .5s linear 0s;
+	width:670px; height:460px;
+}
+.flip3Dlarge > .back{
+	position:absolute;
+	-webkit-transform: perspective( 600px ) rotateY( 180deg );
+	transform: perspective( 600px ) rotateY( 180deg );
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	transition: -webkit-transform .5s linear 0s;
+	transition: transform .5s linear 0s;
+	width:670px; height:460px;
+}
+.flip3Dlarge:hover > .front{
+	-webkit-transform: perspective( 600px ) rotateY( -180deg );
+	transform: perspective( 600px ) rotateY( -180deg );
+}
+.flip3Dlarge:hover > .back{
+	-webkit-transform: perspective( 600px ) rotateY( 0deg );
+	transform: perspective( 600px ) rotateY( 0deg );
+}
