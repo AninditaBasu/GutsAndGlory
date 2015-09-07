@@ -1,0 +1,55 @@
+/* This CSS is from CSS Speech Bubble Generator site: http://ilikepixels.co.uk/bubbler-css-speech-bubble-generator/ */
+/* Narrator: Right, light orange #fff3e0; Others: Left, light blue #e8eaf6 */
+
+.bubble
+{
+position: relative;
+width: 250px;
+height: 120px;
+padding: 0px;
+background: #fff3e0;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.bubble:after
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 0 15px 15px;
+border-color: transparent #fff3e0;
+display: block;
+width: 0;
+z-index: 1;
+right: -15px;
+top: 45px;
+}
+
+.bubbleOthers
+{
+position: relative;
+width: 250px;
+height: 120px;
+padding: 0px;
+background: #e8eaf6;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.bubbleOthers:after
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 15px 15px 0;
+border-color: transparent #e8eaf6;
+display: block;
+width: 0;
+z-index: 1;
+left: -15px;
+top: 45px;
+}
+
