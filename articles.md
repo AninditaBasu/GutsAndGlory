@@ -65,10 +65,11 @@ Tweetable: As a technical communicator working at the crossroads of technology a
 Short URL: http://bit.ly/patentsTW
 
 Images: 
-- unobvious1.jpg
-- useful1.jpg
-- articulate1.jpg
-- eligible2.jpg
+- unique.jpg
+- non-obvious.jpg
+- useful.jpg
+- welldefined2.jpg
+- eligible.jpg
 - patent_flow.png 
 
 Audio:  
@@ -211,11 +212,15 @@ Video:
 
 Title: Who is the user 
 
-Tweetable:  
+Tweetable:  I don't think that's going to be solved by adding screenshots.
 
-Short URL:  
+Short URL:  http://bit.ly/userWHO
 
 Images: 
+- prajakta_1.png
+- prajakta_2.png
+- prajakta_3.png
+- prajakta_4.png
 
 Audio:  
 
