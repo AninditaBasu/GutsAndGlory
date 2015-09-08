@@ -21,6 +21,7 @@ Author, title, tweetabke, short URL, and list of image, audio, and video files
 15. [Sesibhushan](#sesibhushan)
 16. [Sheece](sheece)
 17. [Shivi](#shivi)
+18. [Suyog](#suyog)
 18. [Vinish](#vinish)
 19. [Quiz](quiz)
 20. [Volunteers](volunteers)
@@ -278,13 +279,27 @@ Video:
 
 Title: Awaken the innovator in you 
 
-Tweetable: http://bit.ly/ideateTW
+Tweetable: 
+
+Short URL:  http://bit.ly/ideateTW
+
+Images:  
+
+Audio: https://soundcloud.com/udaanstc/udaan15-int-with-syed 
+
+Video: 
+
+### Suyog
+
+Title:  This side up
+
+Tweetable: 
 
 Short URL:  
 
 Images:  
 
-Audio: https://soundcloud.com/udaanstc/udaan15-int-with-syed 
+Audio: 
 
 Video: 
 
