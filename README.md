@@ -6,15 +6,15 @@ This project has two branches: one called **Master**, which is the default branc
 Therefore, remember to update the files **ONLY of the gh-pages** branch: [https://github.com/UdaanSTC/GutsAndGlory/tree/gh-pages](https://github.com/UdaanSTC/GutsAndGlory/tree/gh-pages).
 
 ## JSON file
-The JSON file is a GitHub-generated file. Do NOT delete this file, else the publishing won't work. This file resides in the root folder.
+The JSON file is a GitHub-generated file. **Do NOT delete this file**, else the publishing won't work. This file resides in the root folder.
 
 ## Main page of the magazine is called index.html
 It resides in the root folder. Do not rename this file, else the publishing won't work.
 
 ## Articles are in the "html" folder
-All articles except the front page, which is called index.html and resides in the root folder, are here.
+All articles are here except the front page, which is called index.html and resides in the root folder. The article files are named after their authors.
+
 This folder also contains two boilerplate files: header.html and footer.html, for the content that is common for all of the article files.
-The article files are named after their authors.
 
 ## CSS files are in the "css" folder
 The CSS files for presentation are sourced as under:
@@ -27,10 +27,10 @@ The CSS files for presentation are sourced as under:
 The sorttable.js file is for making tables sortable on column-click. The file is from this website: [http://www.kryogenix.org/code/browser/sorttable/](http://www.kryogenix.org/code/browser/sorttable/). It is free to use.
 
 ## Image files are in the "images" folder
-The logo (michi), author mugshots, and images used in the articles reside here. Read the source code of the articles to see which image files are used in it.
+The logo (michi), author mugshots, and images used in the articles reside here. To see which image files are used in an article, read the article's source code.
 
 ## Other files
-These files don't reside in this GitHub repo; they're directly referenced through URLs in the articles
+These files don't reside in this GitHub repo; they're directly referenced through URLs in the articles:
 - All of the videos are on YouTube.
 - All of the audio clips are on SoundCloud.
 - The icons are from Google's Material Design icon library [https://fonts.googleapis.com/icon?family=Material+Icons](https://fonts.googleapis.com/icon?family=Material+Icons).
