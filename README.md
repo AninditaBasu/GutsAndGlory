@@ -9,7 +9,7 @@ Therefore, remember to update the files **ONLY of the gh-pages** branch: [https:
 The JSON file is a GitHub-generated file. **Do NOT delete this file**, else the publishing won't work. This file resides in the root folder.
 
 ## Main page of the magazine is called index.html
-It resides in the root folder. Do not rename this file, else the publishing won't work.
+It resides in the root folder. **Do not rename this file**, else the publishing won't work.
 
 ## Articles are in the "html" folder
 All articles are here except the front page, which is called index.html and resides in the root folder. The article files are named after their authors.
