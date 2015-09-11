@@ -71,7 +71,7 @@ Images:
 - useful.jpg
 - welldefined2.jpg
 - eligible.jpg
-- patent_flow.png 
+- process_flow.PNG 
 
 Audio:  
 
@@ -102,6 +102,15 @@ Tweetable: Can I ask you a question? You can but you may not. Avoid these common
 Short URL:  http://bit.ly/vocabTW
 
 Images: 
+- anagha_1.PNG
+- anagha_2.PNG
+- anagha_3.PNG
+- anagha_4.PNG
+- anagha_5.PNG
+- anagha_6.PNG
+- anagha_7.PNG
+- anagha_8.PNG
+- anagha_9.PNG
 
 Audio:  
 
