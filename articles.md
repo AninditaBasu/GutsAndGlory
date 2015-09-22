@@ -1,31 +1,27 @@
 # Article details
 
-Author, title, tweetabke, short URL, and list of image, audio, and video files
+Author, title, tweetable, short URL, and a list of image, audio, and video files
 
 ## Pages
 
 1. [Home Page](#home-page) 
-2. [Abigail](#abigail)
-3. [Alka and Samartha](#alka-and-samartha)
-4. [Alpana](#alpana)
-5. [Anagha](#anagha)
-6. [Anindita](#anindita)
-7. [Asha](#asha)
-8. [Basreena](#basreena)
-9. [Jedidiyah](#jedidiyah)
-10. [Kumar Dhanagopal](#kumar-dhanagopal)
-11. [Meghashri](#meghashri)
-12. [Mugdha](#mugdha)
-13. [Prajakta](#prajakta)
-14. [Rohit](#rohit)
-15. [Sesibhushan](#sesibhushan)
-16. [Sheece](sheece)
-17. [Shivi](#shivi)
-18. [Suyog](#suyog)
-18. [Vinish](#vinish)
-19. [Quiz](quiz)
-20. [Volunteers](volunteers)
-21. [Winners](winners)
+2. [Alka and Samartha](#alka-and-samartha)
+3. [Anagha](#anagha)
+4. [Anindita](#anindita)
+5. [Asha](#asha)
+6. [Basreena](#basreena)
+7. [Meghashri](#meghashri)
+8. [Prajakta](#prajakta)
+9. [Rohit](#rohit)
+10. [Sesibhushan](#sesibhushan)
+11. [Sheece](sheece)
+12. [Shivi](#shivi)
+13. [Surbhi](#surbhi)
+14. [Suyog](#suyog)
+15. [Vinish](#vinish)
+16. [Quiz](quiz)
+17. [Volunteers](volunteers)
+18. [Winners](winners)
 
 ### Home Page
 
@@ -40,22 +36,6 @@ Images:
 Audio: 
 
 Video: 
-
-
-### Abigail
-
-Title: Scenario-based information architecture 
-
-Tweetable: 
-
-Short URL: 
-
-Images: 
-
-Audio: 
-
-Video: 
-
 
 ### Alka and Samartha
 
@@ -77,22 +57,6 @@ Audio:
 
 Video: 
 
-
-### Alpana
-
-Title: Management lessons from kids 
-
-Tweetable: 
-
-Short URL:  
-
-Images: 
-
-Audio:  
-
-Video:  
-
- 
 ### Anagha
 
 Title: Commonly confused words 
@@ -142,7 +106,7 @@ Tweetable: How critical is strong people leadership in the technical writing pro
 
 Short URL:  http://bit.ly/leadTW
 
-Images: 
+Images: battleship.jpg
 
 Audio: 
 
@@ -156,35 +120,7 @@ Tweetable: Increasing demand for products and technologies to be culturally adap
 
 Short URL:  http://bit.ly/lionTC
 
-Images: 
-
-Audio: 
-
-Video: 
-
-### Jedidiyah
-
-Title: Content models 
-
-Tweetable: 
-
-Short URL:  
-
-Images: 
-
-Audio:  
-
-Video:  
-
-### Kumar Dhanagopal
-
-Title: Conversational style of writing 
-
-Tweetable:  
-
-Short URL:  
-
-Images: 
+Images: lion-icon.png
 
 Audio: 
 
@@ -199,24 +135,14 @@ Tweetable: What is common in evaluating tools, exploring formats, and analyzing 
 Short URL:  http://bit.ly/researchTW
 
 Images: 
+- meghashri_1.PNG
+- meghashri_2.PNG
+- meghashri_3.PNG
+- meghashri_4.PNG
 
 Audio: 
 
 Video:  
-
-### Mugdha
-
-Title: Lateral thinking 
-
-Tweetable: 
-
-Short URL:  
-
-Images: 
-
-Audio: 
-
-Video: 
 
 ### Prajakta
 
@@ -252,7 +178,7 @@ Video:
 
 ### Sheece
 
-Title: The four lettered alphanumeric word 
+Title: To be or not to be 
 
 Tweetable:  
 
@@ -298,6 +224,28 @@ Audio: https://soundcloud.com/udaanstc/udaan15-int-with-syed
 
 Video: 
 
+### Surbhi
+
+Title:  Management lessons that children teach us
+
+Tweetable: Children are great teachers, for those who want to learn.
+
+Short URL:  
+
+Images:  
+- surbhi_1.PNG
+- surbhi_2.PNG
+- surbhi_3.PNG
+- surbhi_4.PNG
+- surbhi_5.PNG
+- surbhi_6.PNG
+- surbhi_7.PNG
+- surbhi_8.PNG
+
+Audio: 
+
+Video: 
+
 ### Suyog
 
 Title:  This side up
@@ -307,20 +255,6 @@ Tweetable:
 Short URL:  
 
 Images:  
-
-Audio: 
-
-Video: 
-
-### Tony
-
-Title: Challenges in Agile 
-
-Tweetable: 
-
-Short URL:  
-
-Images: 
 
 Audio: 
 
