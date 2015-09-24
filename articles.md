@@ -171,6 +171,8 @@ Tweetable: All content goes through the editorial desk. Ever heard the editor's 
 Short URL:  http://bit.ly/editTW
 
 Images: 
+- eureka.png
+- officeScene.jpg
 
 Audio: 
 
@@ -250,11 +252,13 @@ Video:
 
 Title:  This side up
 
-Tweetable: 
+Tweetable: If the answers to "Where are we" and "Where do we reach" are the same, do we deviate from techcomm to ID?
 
 Short URL:  
 
-Images:  
+Images: 
+- Landslide_Prone_Area_3.jpg
+- Example_Flowchart.jpg
 
 Audio: 
 
