@@ -31,11 +31,11 @@ Tweetable: Udaan, the publication of the STC India annual conference 2015
 
 Short URL: http://bit.ly/udaanSTC
 
-Images: 
+Images: author mugshots
 
-Audio: 
+Audio: none
 
-Video: 
+Video: YouTube video: Pankh hoti to udd aati re (https://www.youtube.com/embed/A8pggbt-x_Y)
 
 ### Alka and Samartha
 
@@ -55,7 +55,7 @@ Images:
 
 Audio:  
 
-Video: 
+Video: none
 
 ### Anagha
 
@@ -78,7 +78,7 @@ Images:
 
 Audio:  
 
-Video: 
+Video: none
 
 ### Anindita
 
@@ -110,7 +110,7 @@ Images: battleship.jpg
 
 Audio: 
 
-Video:  
+Video:  none
 
 ### Basreena
 
@@ -124,7 +124,7 @@ Images: lion-icon.png
 
 Audio: 
 
-Video: 
+Video: none
 
 ### Meghashri
 
@@ -160,7 +160,7 @@ Images:
 
 Audio:  
 
-Video: 
+Video: none
 
 ### Rohit
 
@@ -176,21 +176,21 @@ Images:
 
 Audio: 
 
-Video: 
+Video: none
 
 ### Sheece
 
 Title: To be or not to be 
 
-Tweetable:  
+Tweetable:  A living ghost has possessed the writer and is telling you its story. Will you heed?
 
-Short URL:  
+Short URL:  http://bit.ly/2BorNo
 
-Images: 
+Images: hamlet.png
 
 Audio:  
 
-Video: 
+Video: none
 
 ### Sesibhushan
 
@@ -216,7 +216,7 @@ Video:
 
 Title: Awaken the innovator in you 
 
-Tweetable: 
+Tweetable: Tips to start thinking like an innovator. Small ideas, big returns.
 
 Short URL:  http://bit.ly/ideateTW
 
@@ -224,7 +224,7 @@ Images:
 
 Audio: https://soundcloud.com/udaanstc/udaan15-int-with-syed 
 
-Video: 
+Video: none
 
 ### Surbhi
 
@@ -232,7 +232,7 @@ Title:  Management lessons that children teach us
 
 Tweetable: Children are great teachers, for those who want to learn.
 
-Short URL:  
+Short URL:  http://bit.ly/childteacher
 
 Images:  
 - surbhi_1.PNG
@@ -246,7 +246,7 @@ Images:
 
 Audio: 
 
-Video: 
+Video: none
 
 ### Suyog
 
@@ -254,7 +254,7 @@ Title:  This side up
 
 Tweetable: If the answers to "Where are we" and "Where do we reach" are the same, do we deviate from techcomm to ID?
 
-Short URL:  
+Short URL:  http://bit.ly/sideUP
 
 Images: 
 - Landslide_Prone_Area_3.jpg
@@ -262,7 +262,7 @@ Images:
 
 Audio: 
 
-Video: 
+Video: none
 
 ### Vinish
 
@@ -282,9 +282,9 @@ Video:
 
 Title: Quiz 
 
-Tweetable: 
+Tweetable: none
 
-Short URL:  
+Short URL:  none
 
 Images: 
 - http://i.imgur.com/8UaMR4V.png
@@ -294,34 +294,34 @@ Images:
 - http://i.imgur.com/hk7yShM.png
 - http://i.imgur.com/Ut5n6G1.png
 
-Audio: 
+Audio: none
 
-Video: 
+Video: none
 
 ### Volunteers
 
 Title: Volunteers 
 
-Tweetable:  
+Tweetable:  none
 
-Short URL:  
+Short URL:  none
 
-Images: 
+Images: none
 
-Audio: 
+Audio: none
 
-Video: 
+Video: none
 
 ### Winners
 
 Title: Winners 
 
-Tweetable: 
+Tweetable: none
 
-Short URL:  
+Short URL:  none
 
-Images: 
+Images: none
 
-Audio: 
+Audio: none
 
-Video: 
+Video: none
