@@ -75,6 +75,11 @@ Images:
 - anagha_7.PNG
 - anagha_8.PNG
 - anagha_9.PNG
+- anagha_10.PNG
+- anagha_11.PNG
+- anagha_12.PNG
+- anagha_13.PNG
+- anagha_14.PNG
 
 Audio:  
 
