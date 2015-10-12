@@ -193,7 +193,7 @@ Short URL:  http://bit.ly/2BorNo
 
 Images: hamlet.png
 
-Audio:  
+Audio:  https://soundcloud.com/sheece-baghdadi/to-be-or-not-to-be/s-Whe3t
 
 Video: none
 
