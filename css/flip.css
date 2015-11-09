@@ -8,7 +8,7 @@
 	backface-visibility: hidden;
 	transition: -webkit-transform .5s linear 0s;
 	transition: transform .5s linear 0s;
-	width:420px; height:360px;
+	width:420px; height:370px;
 }
 .flip3D > .back{
 	position:absolute;
@@ -18,7 +18,7 @@
 	backface-visibility: hidden;
 	transition: -webkit-transform .5s linear 0s;
 	transition: transform .5s linear 0s;
-	width:420px; height:360px;
+	width:420px; height:370px;
 }
 .flip3D:hover > .front{
 	-webkit-transform: perspective( 600px ) rotateY( -180deg );
