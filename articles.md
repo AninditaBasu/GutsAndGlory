@@ -12,6 +12,7 @@ Author, title, tweetable, short URL, and a list of image, audio, and video files
 6. [Basreena](#basreena)
 7. [Meghashri](#meghashri)
 8. [Prajakta](#prajakta)
+9. [Rajib](#rajib)
 9. [Rohit](#rohit)
 10. [Sesibhushan](#sesibhushan)
 11. [Sheece](sheece)
@@ -167,6 +168,20 @@ Audio:
 
 Video: none
 
+### Rajib
+
+Title: Ascend, naturally! 
+
+Tweetable: Will you be more successful as a Doc Lead or a Doc Manager? Use the checklists here.
+
+Short URL:  http://bit.ly/ldrchklst
+
+Images: none
+
+Audio: 
+
+Video: none
+
 ### Rohit
 
 Title: A day in the life of a technical editor 
@@ -196,26 +211,6 @@ Images: hamlet.png
 Audio:  https://soundcloud.com/sheece-baghdadi/to-be-or-not-to-be/s-Whe3t
 
 Video: none
-
-### Sesibhushan
-
-Title: Automated content curation 
-
-Tweetable: In this era of information overload, how to automatically deliver contextually relevant information? @Somarouthu 
-
-Short URL:  http://bit.ly/curateTW
-
-Images:  
-- sesi.png
-- sesi_1.png
-- sesi_2.png
-- sesi_3.png
-- sesi_4.png
-- sesi_5.png
-
-Audio:  
-
-Video: 
 
 ### Shivi
 
