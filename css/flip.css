@@ -1,5 +1,5 @@
 /* the CSS for the flip effect is taken from https://www.developphp.com/video/CSS/Flip-3D-Boxes-and-Cards-Animation-CSS-Tutorial */
-.flip3D{ width:420px; height:360px; margin:10px; float:left; }
+.flip3D{ width:420px; height:375px; margin:10px; float:left; }
 .flip3D > .front{
 	position:absolute;
 	-webkit-transform: perspective( 600px ) rotateY( 0deg );
